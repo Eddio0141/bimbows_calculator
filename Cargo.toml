@@ -16,4 +16,4 @@ egui = "0.19.0"
 eframe = { version = "0.19.0", features = ["persistence"] }
 tracing-subscriber = "0.3.15"
 serde = "1.0.144"
-rust_decimal = "1.26.1"
+num-bigint = "0.4.3"
